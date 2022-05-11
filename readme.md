@@ -7,7 +7,7 @@ JavaScript30 by [WesBos](https://JavaScript30.com)
 | Status  | Project Name                                       |
 | ------- | -------------------------------------------------- |
 | &check; | 01 - JavaScript Drum Kit                           |
-| &cross; | 02 - JS and CSS Clock                              |
+| &check; | 02 - JS and CSS Clock                              |
 | &cross; | 03 - CSS Variables                                 |
 | &cross; | 04 - Array Cardio Day 1                            |
 | &cross; | 05 - Flex Panel Gallery                            |
