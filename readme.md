@@ -8,7 +8,7 @@ JavaScript30 by [WesBos](https://JavaScript30.com)
 | ------- | -------------------------------------------------- |
 | &check; | 01 - JavaScript Drum Kit                           |
 | &check; | 02 - JS and CSS Clock                              |
-| &cross; | 03 - CSS Variables                                 |
+| &check; | 03 - CSS Variables                                 |
 | &cross; | 04 - Array Cardio Day 1                            |
 | &cross; | 05 - Flex Panel Gallery                            |
 | &cross; | 07 - Array Cardio Day 2                            |
